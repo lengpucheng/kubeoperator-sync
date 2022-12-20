@@ -1,0 +1,9 @@
+[submodule "KubeOperator"]
+	path = KubeOperator
+	url = https://github.com/KubeOperator/KubeOperator.git
+[submodule "ansible"]
+	path = ansible
+	url = https://github.com/KubeOperator/ansible.git
+[submodule "neeko"]
+	path = neeko
+	url = https://github.com/KubeOperator/neeko.git
